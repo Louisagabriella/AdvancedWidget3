@@ -7,8 +7,6 @@ Sesudah Menginputkan Nama <br> <br>
 ![tampilan commit simple data binding final_1](https://cloud.githubusercontent.com/assets/21364340/18750860/15d914e6-8107-11e6-95d5-8e829f6af7c1.png)<br> <br> <br>
 
 
-#Link APK <br>
-https://drive.google.com/open?id=0B2j5Yd_9VxeoRWVTSGI2eFh5Nmc <br> <br> <br>
 
 # Identitas <br>
 NAMA : LOUISA GABRIELLA <br>
